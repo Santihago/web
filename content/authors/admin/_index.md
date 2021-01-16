@@ -13,7 +13,7 @@ education:
     institution: Université Catholique de Louvain-la-neuve
     year: 2013
 email: "sm2115@cam.ac.uk"
-highlight_name: false
+highlight_name: true
 interests:
 - Data
 - Data visualisation
