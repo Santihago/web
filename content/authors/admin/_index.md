@@ -5,7 +5,7 @@ education:
   - course: PhD in Cognitive Neuroscience
     institution: Université Libre de Bruxelles
     year: 2019
-  - course: MSc, Research Master in Cognitive and Clinical Neuroscience
+  - course: Research Master in Cognitive and Clinical Neuroscience
     institution: Maastricht University
     year: 2015
   - course: BSc in Psychology & Education
