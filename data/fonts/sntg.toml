@@ -1,0 +1,14 @@
+# The Native Font Theme provides optimum text rendering on every device and OS.
+# Note that the native font families are automatically populated by Academic.
+
+# Font style metadata
+name = "sntg"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Open+Sans:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Raboto Mono"
