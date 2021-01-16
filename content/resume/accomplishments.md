@@ -7,15 +7,15 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors & Awards'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: January 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
