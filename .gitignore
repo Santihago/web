@@ -1,8 +1,8 @@
-blogdown::check_gitignore().Rproj.user
+.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .DS_Store
 Thumbs.db
-public
+public/
 resources
