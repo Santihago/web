@@ -3,7 +3,7 @@ abstract: Neurofeedback allows humans to self-regulate neural activity in specif
 authors:
 - admin
 - Axel Cleeremans
-date: "2015-09-01T00:00:00Z"
+date: "2019-10-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.neubiorev.2020.09.003"
 featured: false
 image:
@@ -11,20 +11,19 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
+publication: '*Neuroscience & Biobehavioral Reviews, 118*(681-688)'
+publication_short: "Neurosci. Biobehav. Rev"
 publication_types:
 - "2"
 publishDate: "2019-11-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: 
+summary: 
 tags:
-- Source Themes
-title: An example journal article
+- PhD
+title: Delineating implicit and explicit processes in neurofeedback learning
 url_code: ""
 url_dataset: ""
-url_pdf: https://psyarxiv.com/gykex/download?format=pdf
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0149763420305595/pdfft?md5=91657c93863d5d978dece457b747943b&pid=1-s2.0-S0149763420305595-main.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
