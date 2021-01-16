@@ -5,7 +5,7 @@
 
 [[main]]
   name = "ABOUT"
-  url = "#about"
+  url = "about"
   weight = 10
 
 [[main]]
@@ -21,12 +21,12 @@
 [[main]]
   name = "RESUME"
   url = "#featured"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "CONTACT"
   url = "#contact"
-  weight = 70
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
