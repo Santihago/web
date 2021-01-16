@@ -1,0 +1,8 @@
+blogdown::check_gitignore().Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+public
+resources
