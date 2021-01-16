@@ -1,6 +1,6 @@
 theme: starter-academic
-title: Academic
-baseurl: 'sntg.netlify.app'
+title: SNTG
+baseurl: 'sntg.netlify.app/'
 copyright: ''
 enableGitInfo: no
 defaultContentLanguage: en
