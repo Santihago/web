@@ -1,10 +1,16 @@
 ---
-active: true
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
 weight: 20
+
 title: Experience
-subtitle: ""
+subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -16,27 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Postdoc'
-    company: 'University of Cambridge'
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    location: 'Cambridge'
-    date_start: '2020-01-01'
+    location: California
+    date_start: '2017-01-01'
     date_end: ''
-    description: ''
+    description: |2-
+        Responsibilities include:
         
-  - title: 'PhD researcher'
-    company: 'Université Libre de Bruxelles'
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor
+    company: University X
     company_url: ''
-    location: 'Brussels'
-    date_start: '2015-08-05'
-    date_end: '2019-11-15'
-    description: ''
-    
-  - title: 'Research intern'
-    company: 'University of Cambridge'
-    company_url: ''
-    location: 'Cambridge'
-    date_start: '2014-11-01'
-    date_end: '2015-7-1'
-    description: ''
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 ---
