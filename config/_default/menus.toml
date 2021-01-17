@@ -9,22 +9,22 @@
 #  weight = 10
 
 [[main]]
-  name = "RESEARCH"
+  name = "Research"
   url = "/research"
   weight = 20
 
 [[main]]
-  name = "DATAVIZ"
+  name = "Dataviz"
   url = "/dataviz"
   weight = 30
   
 [[main]]
-  name = "BLOG"
+  name = "Blog"
   url = "/post"
   weight = 40
   
 [[main]]
-  name = "RESUME"
+  name = "Resume"
   url = "/resume"
   weight = 50
 
