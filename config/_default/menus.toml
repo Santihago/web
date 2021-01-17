@@ -9,22 +9,26 @@
 #  weight = 10
 
 [[main]]
-  name = "RESUME"
-  url = "/resume"
+  name = "RESEARCH"
+  url = "/research"
   weight = 20
 
 [[main]]
-  name = "PROJECTS"
-  url = "/projects"
+  name = "DATAVIZ"
+  url = "/dataviz"
   weight = 30
   
 [[main]]
   name = "BLOG"
   url = "/post"
   weight = 40
+  
+[[main]]
+  name = "RESUME"
+  url = "/resume"
+  weight = 50
 
   
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 #[[main]]
