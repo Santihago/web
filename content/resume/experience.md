@@ -1,6 +1,6 @@
 ---
 active: true
-widget: "experience"  # do not modify
+widget: experience  # do not modify
 headless: true
 weight: 20
 title: Experience
