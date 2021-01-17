@@ -1,39 +1,38 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: 
 authors:
-- admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Axel Cleeremans
+- santiago
+- Dalila Achoui
+- Arnaud Beauny
+- Lars Keuninckx
+- Jean-Remy Martin
+- santiago
+- Laurène Vuillaume
+- Adélaïde De Heering
+date: "2020-10-27T00:00:00Z"
+doi: "10.1016/j.tics.2020.10.002"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ""
+publication: '*Trends in Cognitive Sciences*, 25(1):9-11'
+publication_short: "TiCS"
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2021-01-25T00:00:00Z"
+slides: 
+summary: 
 tags:
-- Source Themes
-title: An example journal article
+- PhD
+- Neuroscience
+- Consciousness
+title: Do You Need to Be Conscious to Learn to Be Conscious?
 url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: '/static/media/pubs/2020_tics.pdf'
 url_poster: ""
 url_project: ""
 url_slides: ""
@@ -45,8 +44,3 @@ url_video: ""
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
