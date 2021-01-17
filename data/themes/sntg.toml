@@ -1,18 +1,21 @@
 # Theme metadata
-name = "Minimal"
+name = "sntg"
 
 # Is theme light or dark?
 light = true
+
+# Set as hex or as rgb e.g.: "rgb(247, 247, 247)"
 
 # Primary
 primary = "#2962ff"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#2b2b2b"
+menu_primary = "#064f80"
+menu_text = "#172A3A"
+menu_text_active = "#06805E"
+menu_title = "#172A3A"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+# Backgrounds
+background = "#e1e7ed"
+home_section_odd = "#e1e7ed"
+home_section_even = "#e1e7ed" "rgb(247, 247, 247)"
