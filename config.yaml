@@ -1,6 +1,6 @@
 theme: starter-academic
 title: SNTG
-baseurl: 'sntg.netlify.app/'
+baseurl: 'sntg.me/'
 copyright: '&copy; Santiago Muñoz Moldes {year}'
 enableGitInfo: no
 defaultContentLanguage: en
