@@ -20,10 +20,10 @@ authors:
 #- "Equal contribution"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-10T00:00:00Z"
 
 # Abstract
-abstract:
+abstract: Hello.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -52,7 +52,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
+  caption: "Figure from the article."
   focal_point: ""
   preview_only: false
 
