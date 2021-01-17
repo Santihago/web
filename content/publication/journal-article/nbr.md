@@ -4,7 +4,7 @@ authors:
 - santiago
 - Axel Cleeremans
 date: "2020-10-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.neubiorev.2020.09.003"
+doi: "10.1016/j.neubiorev.2020.09.003"
 featured: false
 image:
   caption: ''
@@ -25,7 +25,7 @@ tags:
 title: Delineating implicit and explicit processes in neurofeedback learning
 url_code: ""
 url_dataset: ""
-url_pdf: '/static/media/2020_nbr.pdf'
+url_pdf: '/static/media/pubs/2020_nbr.pdf'
 url_poster: ""
 url_project: ""
 url_slides: ""
