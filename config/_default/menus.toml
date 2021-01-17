@@ -24,7 +24,7 @@
   weight = 40
   
 [[main]]
-  name = "CONTACT"
+  name = "CONTACT""
   url = "#contact"
   weight = 50
 
@@ -33,4 +33,4 @@
 #[[main]]
 #   name = "CV"
 #    url = "media/resume.pdf"
-#    weight = 70
+##    weight = 70
