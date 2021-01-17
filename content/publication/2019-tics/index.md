@@ -14,11 +14,11 @@ date: "2019-12-28T00:00:00Z"
 doi: "10.1016/j.tics.2019.11.011"
 featured: true
 image:
-  caption: ""
-  focal_point: ""
+  caption: 
+  focal_point: 
   preview_only: false
 projects: []
-publication: "*Trends in Cognitive Sciences*, 24(2):112-123""
+publication: "*Trends in Cognitive Sciences*, 24(2):112-123"
 publication_short: "TiCS"
 publication_types:
 - "2"
