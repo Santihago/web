@@ -30,6 +30,7 @@ design:
 
 My research interest are ...
 My PhD work focused on...
+You an also check my related networks: [*ResearchGate*][(https://scholar.google.be/citations?user=DMIkLkMAAAAJ)], Google Scholar, etc.
 
 {{% alert note %}}
 Some *peer-reviewed* and some *preprints* here. Click on *code* to access code and materials for the research. 
