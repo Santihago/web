@@ -25,5 +25,5 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["100px", "200px", "100px", "200px"]
+    padding: ["100px", "50px", "100px", "50px"]
 ---
