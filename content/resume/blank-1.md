@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Experience
+title: 
 subtitle:
 
 design:
@@ -28,5 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+<p style="text-align: center;"> {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}. </p>
 
