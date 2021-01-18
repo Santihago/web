@@ -37,8 +37,8 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "Postprint"
+   url: "https://psyarxiv.com/gykex/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
