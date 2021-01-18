@@ -8,13 +8,13 @@ authors:
 - Albert de Beir
 - Axel Cleeremans
 
-author_notes:
-- ""
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- ""
-- ""
+#author_notes:
+#- ""
+#- "Equal contribution"
+#- "Equal contribution"
+#- "Equal contribution"
+#- ""
+#- ""
 
 date: "2020-08-12T00:00:00Z"
 doi: "10.1016/journal.pone.0236467"
