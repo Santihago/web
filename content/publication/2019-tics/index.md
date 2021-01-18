@@ -18,10 +18,10 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-- "Equal contribution"
+- ""
 
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.tics.2019.11.011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
