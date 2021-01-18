@@ -17,7 +17,7 @@ authors:
 #- ""
 
 date: "2020-08-12T00:00:00Z"
-doi: "10.1016/journal.pone.0236467"
+doi: "10.1371/journal.pone.0236467"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -78,7 +78,5 @@ slides:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Tiis article is available in open access. Click the *PDF* button above to read it.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

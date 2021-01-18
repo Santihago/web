@@ -8,7 +8,7 @@ authors:
 #- ""
 #- "Equal contribution"
 
-date: "2020-11-01T00:00:00Z"
+date: "2020-09-10T00:00:00Z"
 doi: "10.1016/j.neubiorev.2020.09.003"
 
 # Schedule page publish date (NOT publication's date).
@@ -71,7 +71,5 @@ slides:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Tiis article is available in open access. Click the *PDF* button above to read it.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
