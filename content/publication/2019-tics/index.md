@@ -36,7 +36,7 @@ publication_types: ["2"]
 publication: "*Trends in Cognitive Science, 1*(1)"
 publication_short: "TiCS"
 
-abstract: "Consciousness remains a formidable challenge. Different theories of consciousness have proposed vastly different mechanisms to account for phenomenal experience. "
+abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: We introduce a novel framework: the self-organizing metarerpresentational account (SOMA), in which consciousness is viewed as something that the brain learns to do.
