@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: headers/reearch.jpg
+    image: headers/research.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
