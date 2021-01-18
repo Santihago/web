@@ -39,7 +39,7 @@ publication_short: "TiCS"
 abstract: Consciousness remains a formidable challenge.
 
 # Summary. An optional shortened abstract.
-summary: We introduce a novel framework: the self-organizing metarerpresentational account (SOMA), in which consciousness is viewed as something that the brain learns to do.
+summary: We introduce a novel framework.
 
 tags:
 - PhD
