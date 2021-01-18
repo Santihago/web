@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: headers/bubbles-wide.jpg
+    image: headers/reearch.jpg
     image_darken: 0.6
     image_parallax: true
     image_position: center
@@ -30,4 +30,4 @@ design:
 
 In my research I study the role of interoception –the sensing and perception of information from the body– in human decision-making. I use behavioural measures, electroencephalography and other physiological indicators such as our pupils, our heart rate, or our breathing, to elucidate the interplay between brain and body in decision-making. I am currently supported by a grant from the Wiener-Anspach foundation.
 
-You an also visit my related networks: {{< icon name="researchgate" pack="fas" >}} [*ResearchGate*](https://scholar.google.be/citations?user=DMIkLkMAAAAJ), Google Scholar, etc.
+You an also visit my related networks: {{< icon name="google-scholar" pack="ai" >}} [*Google Scholar*](https://scholar.google.be/citations?user=DMIkLkMAAAAJ), ResearchGate, ORCID.
