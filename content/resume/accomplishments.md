@@ -15,22 +15,14 @@ date_format: January 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-07-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  organization: The Foundation for Neurofeedback and Neuromodulation Research
+  organization_url: https://thefnnr.org/
+  title: 2020 BrainMaster Joe Kamiya First Person Science Award
+  url: "https://thefnnr.org/grants-and-awards/"
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
