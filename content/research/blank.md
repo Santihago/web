@@ -32,5 +32,5 @@ In my research I study the role of interoception –the sensing and perception o
 
 You an also visit me on these platforms:
 * {{< icon name="google-scholar" pack="ai">}} [**Google Scholar**](https://scholar.google.be/citations?user=DMIkLkMAAAAJ)
-* {{< icon name="researchgate" pack="ai" >}} [**ResearchGate**](researchgate.net/profile/Santiago_Munoz-Moldes)
+* {{< icon name="researchgate" pack="ai" >}} [**ResearchGate**](https://researchgate.net/profile/Santiago_Munoz-Moldes)
 * {{< icon name="orcid" pack="ai" >}} [**ORCiD**](https://orcid.org/0000-0002-4015-8617).
