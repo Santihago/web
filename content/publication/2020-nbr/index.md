@@ -71,5 +71,5 @@ slides:
 ---
 
 {{% callout note %}}
-Tiis article is available in open access. Click the *PDF* button above to read it.
+Tiis article is available in open access {{< icon name="open-access" pack="ai" >}}. Click the *PDF* button above to read it.
 {{% /callout %}}
