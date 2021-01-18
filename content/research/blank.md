@@ -28,10 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-My research interest are ...
-My PhD work focused on...
-You an also check my related networks: [*ResearchGate*](https://scholar.google.be/citations?user=DMIkLkMAAAAJ), Google Scholar, etc.
+In my research I study the role of interoception –the sensing and perception of information from the body– in human decision-making. I use behavioural measures, electroencephalography and other physiological indicators such as our pupils, our heart rate, or our breathing, to elucidate the interplay between brain and body in decision-making. I am currently supported by a grant from the Wiener-Anspach foundation.
 
-{{% alert note %}}
-Some *peer-reviewed* and some *preprints* here. Click on *code* to access code and materials for the research. 
-{{% /alert %}}
+You an also visit my related networks: {{< icon name="researchgate" pack="fas" >}} [*ResearchGate*](https://scholar.google.be/citations?user=DMIkLkMAAAAJ), Google Scholar, etc.
