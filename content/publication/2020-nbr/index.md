@@ -36,9 +36,13 @@ tags:
 - Neurofeedback
 featured: false
 
-# links:
- - name: "Postprint"
-   url: "https://psyarxiv.com/gykex/"
+# Custom links (previously url_custom)
+links:
+  - icon_pack: ai
+    icon: psyarxiv
+    name: Postprint
+    url: 'https://psyarxiv.com/gykex/'
+url_preprint: 'https://psyarxiv.com/gykex/'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
