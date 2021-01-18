@@ -4,7 +4,7 @@ date = 2019-02-05T23:29:02+01:00
 draft = false
 
 # Override automatic summary
-# summary = "Summary of my post."
+#summary = "Summary of my post."
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -28,7 +28,7 @@ This guide will show you how to transform a normal parallel port cable to use wi
 
 The Biosemi receiver has a **DB37-type connector, with 37 pins**. However, most parallel ports on computers are **DB25 connectors with 25 pins**. 
 
-![Connectors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/1.JPG" >}})
+#![Connectors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/1.JPG" >}})
 
 
 Since I was having a hard time finding a DB25-to-DB37 cable, and I did not want to order – an expensive – new one from Biosemi, I decided to make my own. Luckily, the makers of Biosemi provide on their website ([here][1] and [there][2]) the necessary information to get you started.
@@ -57,11 +57,11 @@ In my case, those pins on the DB25 had the following cable colors:
 | 9  | Orange White  |
 | 25  | White (Ground)  |
 
-![Open]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/3.JPG" >}})
+#![Open]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/3.JPG" >}})
 
 The colors on my cable
 
-![Colors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/4.JPG" >}})
+#![Colors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/4.JPG" >}})
 
 ### Soldering
 
@@ -86,11 +86,11 @@ In my case, the colors were as follow, but colors might differ for you.
 | 9  | 8  | Orange White  |
 | 25  | 37  | White (Ground)  |
 
-![Soldered]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/5.JPG" >}})
+#![Soldered]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/5.JPG" >}})
 
 And here is the end result:
 
-![Final]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/6.JPG" >}})
+#![Final]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/6.JPG" >}})
 
 [here][1] : https://www.biosemi.com/faq/presentation.htm
 [there][2]: https://www.biosemi.com/faq/trigger_signals.htm 
