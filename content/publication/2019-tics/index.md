@@ -20,7 +20,7 @@ author_notes:
 - "Equal contribution"
 - ""
 
-date: "2015-09-01T00:00:00Z"
+date: "2020-02-01T00:00:00Z"
 doi: "10.1016/j.tics.2019.11.011"
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Trends in Cognitive Science, 1*(1)"
+publication: "*Trends in Cognitive Science, 24*(2):112-123"
 publication_short: "TiCS"
 
 abstract: >-
