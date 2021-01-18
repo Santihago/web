@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Research Scientist
     company: University of Cambridge
     company_url: ''
-    location: Cambridge
+    location: Cambridge (UK)
     date_start: '2020-01-01'
     date_end: ''
     description: ''
@@ -33,7 +33,7 @@ experience:
   - title: PhD researcher
     company: Université Libre de Bruxelles
     company_url: ''
-    location: California
+    location: Brussels (BE)
     date_start: '2015-08-05'
     date_end: '2019-11-15'
     description: 
@@ -41,7 +41,7 @@ experience:
   - title: Research intern
     company: University of Cambridge
     company_url: ''
-    location: Cambridge
+    location: Cambridge (UK)
     date_start: '2014-11-01'
     date_end: '2015-07-01'
     description: 
