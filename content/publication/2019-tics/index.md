@@ -11,6 +11,12 @@ authors:
 - Adélaïde De Heering
 
 author_notes:
+- ""
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 
