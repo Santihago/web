@@ -42,7 +42,7 @@ links:
     icon: psyarxiv
     name: Postprint
     url: 'https://psyarxiv.com/gykex/'
-url_preprint: 'https://psyarxiv.com/gykex/'
+url_preprint:
 url_pdf: ''
 url_code: ''
 url_dataset: ''
