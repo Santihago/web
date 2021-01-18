@@ -1,25 +1,25 @@
 ---
-bio: My research interests include ...
+bio:
 education:
   courses:
-  - course: PhD in Cognitive Neuroscience
+  - course: PhD in Psychology
     institution: Université Libre de Bruxelles
     year: 2019
   - course: Research Master in Cognitive and Clinical Neuroscience
     institution: Maastricht University
     year: 2015
-  - course: BSc in Psychology & Education
+  - course: BSc in Psychology
     institution: Université Catholique de Louvain
     year: 2013
 email: "sm2115@cam.ac.uk"
 highlight_name: true
 interests:
-- Data
-- Data visualisation
-- Research
+- Cognitive science
+- Data visualization
+- Python & R
 organizations:
-- name: University of Cambridge
-  url: https://www.psychol.cam.ac.uk/
+- name: Cambridge Consciousness & Cognition lab
+  url: http://www.ccc-lab.org/
 role: Postdoctoral Research Scientist
 social:
 - icon: envelope
