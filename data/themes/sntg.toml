@@ -7,12 +7,12 @@ name = "sntg"
 light = true
 
 # Primary
-primary = "##0075ab"
+primary = "#0075ab"
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#202124"
-menu_text_active = "##0075ab"  # old green
+menu_text_active = "#0075ab"  # old green
 menu_title = "#202124"
 
 # Backgrounds
