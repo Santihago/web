@@ -25,7 +25,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["100px", "50px", "50px", "200px"]
+    padding: ["100px", "50px", "100px", "50px"]
 ---
 
 <p style="text-align: center;"> {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}. </p>
