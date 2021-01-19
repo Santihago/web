@@ -24,8 +24,8 @@ content:
   # Filter on criteria
   filters:
     tag: ''
-    category: '2'
-    publication_type: ''
+    category: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:

@@ -27,8 +27,8 @@ content:
   # 7 = Thesis; 8 = Patent
   filters:
     tag: ''
-    category: '1'
-    publication_type: 'poster'
+    category: ''
+    publication_type: '1'
     author: ''
     exclude_featured: true
 design:
