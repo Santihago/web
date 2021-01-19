@@ -5,10 +5,12 @@ body {
   color: #172A3A;
 }
 
+/*make navbar skinnier */
 .navbar {
   min-height: 100px !important;
 }
 
+/* headers */
 h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
   letter-spacing: 0.04em;
@@ -43,14 +45,21 @@ a:hover {
 	letter-spacing: .1em;
 }
 
+/*make drop down menu more opaque on mobile */
+@media (max-width: 991.98px) { 
+  .navbar-collapse {
+    background-color: #f7f7f7d9 !important;
+  }
+}
+
+
 /*----NAV LINK HOVER ANIMATION -----*/
 /* from Desiree: https://github.com/dcossyleon/blogdown_desiree/blob/master/assets/scss/custom.scss */
 
 /* stroke */
-
-.navbar-nav a.nav-link,
-.navbar-nav a.nav-link:after,
-.navbar-nav a.nav-link:before {
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
   transition: all .5s;
 }
 
@@ -86,17 +95,30 @@ a:hover {
 }
 
 .network-icon li:hover {
-  transform: scale(1.05);
+  transform: scale(1.10);
 }
 
+
 .home-section:first-of-type {
-  padding: 50px 0 50px 0;  /* this is some extra space top and bottom (t r b l)*/
-  /* padding: 50px 50px 50px 50px; */
-}
+  padding: 50px 0 50px 0;  
+} 
 
 .home-section:not(:first-of-type) {
   padding: 25px 0 25px 0; 
 }
+
+/* Space between author bio and avatar */
+#about .col-12.col-lg-8 {
+  padding-left: 50px !important;
+}
+
+/* Evenly spaces bio text on mobile */
+
+  @media screen and (max-width: 768px) {
+      #about .col-12.col-lg-8 {
+      padding-left: 15px !important;
+    }
+  }
 
 /* this erases the margin-bottom for h1 */
 
@@ -250,9 +272,9 @@ hr {
 .center-block {
     display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
  }
- 
+
 .home-section.wg-experience .card-body {
 	padding: .5rem;
 }

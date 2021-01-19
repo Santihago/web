@@ -1,26 +1,20 @@
-+++
-title = "DIY trigger cable for Biosemi"
-date = 2019-02-05T23:29:02+01:00
-draft = true
-
-# Override automatic summary
-#summary = "Summary of my post."
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
-categories = ["methods"]
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-+++
+---
+title : "DIY trigger cable for Biosemi"
+authors:
+- admin
+categories: 
+date : "2019-02-05T23:29:02+01:00"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+lastMod: 
+projects: []
+subtitle: 
+summary:
+tags: []
+---
 
 This guide will show you how to transform a normal parallel port cable to use with a Biosemi EEG acquisition system. The parallel port cable is normally used to mark events of interest on the EEG data, on works by sending *triggers* from a stimulation computer running an experiment to the Biosemi receiver, which will then merge the triggers with the incoming digital EEG data.
 
@@ -28,8 +22,7 @@ This guide will show you how to transform a normal parallel port cable to use wi
 
 The Biosemi receiver has a **DB37-type connector, with 37 pins**. However, most parallel ports on computers are **DB25 connectors with 25 pins**. 
 
-#![Connectors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/1.JPG" >}})
-
+{{< figure src="1.JPG" title="Connectors" >}}
 
 Since I was having a hard time finding a DB25-to-DB37 cable, and I did not want to order – an expensive – new one from Biosemi, I decided to make my own. Luckily, the makers of Biosemi provide on their website ([here][1] and [there][2]) the necessary information to get you started.
 
@@ -57,11 +50,11 @@ In my case, those pins on the DB25 had the following cable colors:
 | 9  | Orange White  |
 | 25  | White (Ground)  |
 
-#![Open]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/3.JPG" >}})
+{{< figure src="3.JPG" title="Open" >}}
 
 The colors on my cable
 
-#![Colors]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/4.JPG" >}})
+{{< figure src="4.JPG" title="Colors" >}}
 
 ### Soldering
 
@@ -86,11 +79,11 @@ In my case, the colors were as follow, but colors might differ for you.
 | 9  | 8  | Orange White  |
 | 25  | 37  | White (Ground)  |
 
-#![Soldered]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/5.JPG" >}})
+{{< figure src="5.JPG" title="Soldered" >}}
 
 And here is the end result:
 
-#![Final]({{< static "img/post/2019-02-05-diy-trigger-cable-for-biosemi/6.JPG" >}})
+{{< figure src="6.JPG" title="Final" >}}
 
 [here][1] : https://www.biosemi.com/faq/presentation.htm
 [there][2]: https://www.biosemi.com/faq/trigger_signals.htm 

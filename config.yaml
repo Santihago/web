@@ -1,5 +1,5 @@
 theme: starter-academic
-title: SNTG
+title: sntg
 baseurl: 'sntg.me/'
 copyright: '&copy; Santiago Muñoz Moldes {year}'
 enableGitInfo: no
