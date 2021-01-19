@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: Papers
+title: Posters
 subtitle: ''
 
 content:
@@ -22,10 +22,13 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Filter on criteria
+  # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+  # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+  # 7 = Thesis; 8 = Patent
   filters:
     tag: ''
-    category: '2'
-    publication_type: ''
+    category: '1'
+    publication_type: 'poster'
     author: ''
     exclude_featured: true
 design:
@@ -34,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
